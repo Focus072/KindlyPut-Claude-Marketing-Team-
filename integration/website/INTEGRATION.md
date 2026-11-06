@@ -11,7 +11,7 @@ Everything needed is inside this folder. Copy the contents of `files/` into the 
 | Source repository | `Focus072/KindlyPut-Claude-Marketing-Team-` |
 | Branch | `claude/project-thread-7xvnwk` |
 | Prototype commit (standalone app) | `6d686d4d844c4fa4c6b26a535fe409f2d068e993` |
-| Package location | `integration/website/` on the same branch. The commit is given in `IMPLEMENTATION_PROMPT.md`. |
+| Package commit | `9e4bb86039b374de978ba95b0a6c2b857d4393e0` (files under `integration/website/`) |
 | Target repository | `Focus072/Kindlyputstudio.com`, branch `claude/project-thread-rg4eys` |
 | Target route | `/admin/ai-team` |
 
