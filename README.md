@@ -1,5 +1,7 @@
 # Kindly Put Studio · AI content team workspace
 
+> **Status: paused prototype.** The AI Team is moving into the main website at `/admin/ai-team`, using the site's studio login and database. This standalone app is kept for reference. It isn't deployed, and its database changes were never applied. The integration package is in [`integration/website/`](integration/website/INTEGRATION.md).
+
 A private workspace where the Kindly Put Studio team works with five AI specialists:
 
 | Specialist | Role |
